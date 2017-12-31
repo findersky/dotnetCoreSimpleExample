@@ -1,0 +1,10 @@
+H:\gitWorkFloder\.net core\NETCoreLogging\src\NETCoreLogging\bin\Debug\netcoreapp2.0\NETCoreLogging.deps.json
+H:\gitWorkFloder\.net core\NETCoreLogging\src\NETCoreLogging\bin\Debug\netcoreapp2.0\NETCoreLogging.runtimeconfig.json
+H:\gitWorkFloder\.net core\NETCoreLogging\src\NETCoreLogging\bin\Debug\netcoreapp2.0\NETCoreLogging.runtimeconfig.dev.json
+H:\gitWorkFloder\.net core\NETCoreLogging\src\NETCoreLogging\bin\Debug\netcoreapp2.0\NETCoreLogging.dll
+H:\gitWorkFloder\.net core\NETCoreLogging\src\NETCoreLogging\bin\Debug\netcoreapp2.0\NETCoreLogging.pdb
+H:\gitWorkFloder\.net core\NETCoreLogging\src\NETCoreLogging\obj\Debug\netcoreapp2.0\NETCoreLogging.csproj.CoreCompileInputs.cache
+H:\gitWorkFloder\.net core\NETCoreLogging\src\NETCoreLogging\obj\Debug\netcoreapp2.0\NETCoreLogging.AssemblyInfoInputs.cache
+H:\gitWorkFloder\.net core\NETCoreLogging\src\NETCoreLogging\obj\Debug\netcoreapp2.0\NETCoreLogging.AssemblyInfo.cs
+H:\gitWorkFloder\.net core\NETCoreLogging\src\NETCoreLogging\obj\Debug\netcoreapp2.0\NETCoreLogging.dll
+H:\gitWorkFloder\.net core\NETCoreLogging\src\NETCoreLogging\obj\Debug\netcoreapp2.0\NETCoreLogging.pdb
